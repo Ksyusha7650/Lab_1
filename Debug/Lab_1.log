@@ -1,0 +1,5 @@
+﻿  Intersection.cpp
+c:\users\ksyusha\source\repos\lab_1\intersection.cpp(46): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\ksyusha\source\repos\lab_1\intersection.cpp(55): warning C4715: check_y: значение возвращается не при всех путях выполнения
+c:\users\ksyusha\source\repos\lab_1\intersection.cpp(72): warning C4715: check_x: значение возвращается не при всех путях выполнения
+  Lab_1.vcxproj -> C:\Users\Ksyusha\source\repos\Lab_1\Debug\Lab_1.exe
